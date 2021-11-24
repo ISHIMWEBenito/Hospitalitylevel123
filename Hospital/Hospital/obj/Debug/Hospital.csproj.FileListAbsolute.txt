@@ -1,0 +1,8 @@
+c:\users\student\documents\visual studio 2015\Projects\Hospital\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\Windows10\Downloads\Hospital\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\Windows10\Downloads\Hospital\Hospital\bin\Debug\Hospital.exe
+C:\Users\Windows10\Downloads\Hospital\Hospital\bin\Debug\Hospital.pdb
+C:\Users\Windows10\Downloads\Hospital\Hospital\obj\Debug\Hospital.csprojAssemblyReference.cache
+C:\Users\Windows10\Downloads\Hospital\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\Downloads\Hospital\Hospital\obj\Debug\Hospital.exe
+C:\Users\Windows10\Downloads\Hospital\Hospital\obj\Debug\Hospital.pdb
